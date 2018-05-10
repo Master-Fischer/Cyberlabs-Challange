@@ -8,7 +8,7 @@ Foram utilizadas as seguintes bibliotecas:
 
 O dataset foi obtido por pesquisa no Google Images, utilizando um script em python para download do mesmo.
 A arquitetura da rede neural escolhida foi a LE_NET, que consiste em    com tamanho das imagens (150,150).
-Foram utilizadas X fotos de cervejas e Y fotos de refrigerantes para o treino da máquina e um dataset de validação de X fotos de cervejas e Y fotos de refrigerantes, tendo uma eficiência de 75% de acerto.
+Foram utilizadas 500 fotos de cervejas e 250 fotos de refrigerantes para o treino da máquina e um dataset de validação de 198 fotos de cervejas e 338 fotos de refrigerantes, tendo uma eficiência de 75% de acerto.
 
 Para rodar a inteligência artificial basta baixar o dataset e, no código, escrever o endereço do dataset de treino e validação.
 
