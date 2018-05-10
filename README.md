@@ -3,8 +3,8 @@ Trata-se do desenvolvimento de uma inteligência artifical de classificação bi
 Todos os links encontram-se no final.
 
 Foram utilizadas as seguintes bibliotecas:
--Keras
--TensorFlow
+Keras
+TensorFlow
 
 O dataset foi obtido por pesquisa no Google Images, utilizando um script em python para download do mesmo.
 A arquitetura da rede neural escolhida foi a LE_NET, que consiste em    com tamanho das imagens (150,150).
