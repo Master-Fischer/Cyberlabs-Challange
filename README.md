@@ -3,8 +3,8 @@ Trata-se do desenvolvimento de uma inteligência artifical de classificação bi
 Todos os links encontram-se ao final deste relatório.
 
 Foram utilizadas as seguintes bibliotecas:
-Keras
-TensorFlow
+Keras,
+TensorFlow,
 Nunpy
 
 O dataset foi obtido por pesquisa no Google Images, utilizando um script em python para download do mesmo. O IDE utilizado foi o SPYDER.
