@@ -4,7 +4,7 @@ Todos os links encontram-se ao final deste relatório.
 
 Foram utilizadas as seguintes bibliotecas:
 Keras,
-TensorFlow,
+TensorFlow.
 
 
 O dataset foi obtido por pesquisa no Google Images, utilizando um script em python para download do mesmo. O IDE utilizado foi o SPYDER.
@@ -14,5 +14,5 @@ O modo de saída escolhido foi o SOFTMAX.Foram utilizadas 500 fotos de cervejas 
 
 Para rodar a inteligência artificial basta baixar o dataset e, no código, escrever o endereço do dataset de treino e validação.
 
-Link para dataset: 
+Link para dataset: https://www.dropbox.com/s/llkvgbwdemc1f6z/beer%20and%20soda.zip?dl=0
 
